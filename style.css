@@ -44,8 +44,8 @@ body * {
 }
 /* aqui organizamos em geral toas as informacoes das Div*/
 #container {
-  width: 360px;
- 
+  width: 100%;
+  max-width: 588px; 
   margin: 56px auto 0px auto; /* a ordem funciona como relogio cima, direita, baixo, esquerda */
   padding:  0 24px;
 
