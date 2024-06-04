@@ -19,6 +19,5 @@ function toggleMode() {
  //pegar a tag img
  //se tiver light mode, adicionar a imagem light
  //se tiver sem light mode, manter a imagem normal
- alert("Fala, Dev!")
- alert((10 * 100) + " abraços")
+
 }
